@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ee41938_002D2f63_002D4a59_002Db547_002D021e31827080/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::CB390B19-81C3-46AA-9F98-94B53A93BAC5::net7.0::FormulaApp.UnitTests.UnitTest1.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::CB390B19-81C3-46AA-9F98-94B53A93BAC5::net7.0::FormulaApp.UnitTests.Systems.Controllers.TestFansController&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76bbd7e0_002D5c84_002D480e_002D9456_002Dcba519636156/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestFansController" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::CB390B19-81C3-46AA-9F98-94B53A93BAC5::net7.0::FormulaApp.UnitTests.Systems.Controllers.TestFansController&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::CB390B19-81C3-46AA-9F98-94B53A93BAC5::net7.0::FormulaApp.UnitTests.Systems.Services.TestFanService&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
